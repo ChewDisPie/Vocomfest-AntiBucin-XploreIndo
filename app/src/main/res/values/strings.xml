@@ -13,4 +13,9 @@
     <string name="permission_rationale">"Contacts permissions are needed for providing email
         completions."
     </string>
+    <string name="xplore_background">This is a background text</string>
+    <string name="title_activity_main_menu">MainMenu</string>
+    <string name="jelajah">Jelajah</string>
+    <string name="gallery">Gallery</string>
+    <string name="xmart">Xmart</string>
 </resources>

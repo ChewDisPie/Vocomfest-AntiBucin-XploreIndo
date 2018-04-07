@@ -74,6 +74,12 @@
                 android:text="@string/action_sign_in"
                 android:textStyle="bold" />
 
+            <ImageView
+                android:id="@+id/imageView"
+                android:layout_width="match_parent"
+                android:layout_height="276dp"
+                app:srcCompat="@drawable/ic_action_name" />
+
         </LinearLayout>
     </ScrollView>
 
