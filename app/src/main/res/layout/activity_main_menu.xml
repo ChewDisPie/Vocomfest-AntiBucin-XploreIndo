@@ -26,31 +26,31 @@
 
             <Button
                 android:id="@+id/buttonGalllery"
-                android:drawableStart="@drawable/ic_gallery"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
+                android:layout_width="7dp"
+                android:layout_height="85dp"
                 android:layout_weight="1"
-                android:background="@color/pastelRed"
+                android:background="@drawable/main_menu_button_border"
+                android:drawableTop="@drawable/ic_gallery"
                 android:padding="10dp"
                 android:text="@string/gallery" />
 
             <Button
                 android:id="@+id/buttonJelajah"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
+                android:layout_width="7dp"
+                android:layout_height="85dp"
                 android:layout_weight="1"
-                android:background="@color/pastelRed"
-                android:drawableStart="@drawable/ic_bag"
+                android:background="@drawable/main_menu_button_border"
+                android:drawableTop="@drawable/ic_bag"
                 android:padding="10dp"
                 android:text="@string/jelajah" />
 
             <Button
                 android:id="@+id/buttonXmart"
-                android:drawableStart="@drawable/ic_cart"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
+                android:layout_width="7dp"
+                android:layout_height="85dp"
                 android:layout_weight="1"
-                android:background="@color/pastelRed"
+                android:background="@drawable/main_menu_button_border"
+                android:drawableTop="@drawable/ic_cart"
                 android:padding="10dp"
                 android:text="@string/xmart" />
         </LinearLayout>
